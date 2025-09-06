@@ -7,7 +7,7 @@ Para executar o projeto, é necessário utilizar o SimulIDE, um simulador gratui
 Você pode baixar o simulador gratuitamente no site oficial: https://simulide.com/p/downloads/
 
 Proposta do codigo - Simular uma rotina de um conjunto de um tanque,
-valvula, sensor de nivel, LCD e botao, cogumelo para emergencia. O sensor
+valvula, sensor de nivel, LCD e botao de emergencia. O sensor
 é simulado pelo potenciometro, nomeado setpoint, a valvula o led, nomeado saida
 a bomba o led, nomeado pwm.
         Funcionamento do código - A quantidade de liquido é amostrado no LCD
